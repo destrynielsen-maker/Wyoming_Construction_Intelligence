@@ -1,1 +1,25 @@
-{"generated_at": null, "sources": []}
+{
+  "generated_at": "2026-08-24T19:49:14+00:00",
+  "sources": [
+    {
+      "source": "Gillette",
+      "status": "healthy",
+      "technical_status": "ok",
+      "freshness_status": "fresh",
+      "volume_status": "normal",
+      "records_seen": 2417,
+      "qualifying_records": 251,
+      "newest_permit_date": "2026-09-01",
+      "oldest_permit_date": "2025-02-20",
+      "days_since_newest_permit": -8,
+      "freshness_threshold_days": 14,
+      "previous_records_seen": null,
+      "record_count_change_pct": null,
+      "last_attempt_at": "2026-08-24T19:49:14+00:00",
+      "last_success_at": "2026-08-24T19:49:14+00:00",
+      "cached_data_available": true,
+      "source_url": "https://services1.arcgis.com/t1pOARESVtLutuqb/arcgis/rest/services/Energov_Permit_Points/FeatureServer/0",
+      "note": "Official City of Gillette EnerGov Permit Points ArcGIS layer; rolling ~18 months"
+    }
+  ]
+}
