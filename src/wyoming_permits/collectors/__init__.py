@@ -1,3 +1,3 @@
-from .laramie_county import LaramieCountyCollector
+from .laramie_county_current import LaramieCountyCurrentCollector
 
-COLLECTORS = [LaramieCountyCollector()]
+COLLECTORS = [LaramieCountyCurrentCollector()]
