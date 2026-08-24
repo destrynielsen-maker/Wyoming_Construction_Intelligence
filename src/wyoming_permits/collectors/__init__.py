@@ -1,2 +1,3 @@
-from .gillette import GilletteCollector
-COLLECTORS = [GilletteCollector()]
+from .laramie_county import LaramieCountyCollector
+
+COLLECTORS = [LaramieCountyCollector()]
