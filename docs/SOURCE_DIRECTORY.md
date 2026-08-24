@@ -5,10 +5,10 @@ This is the rep-facing source directory. Use permit sources to confirm that cons
 | Market | Direct source | Type / rep use |
 |---|---|---|
 | **Gillette** | https://www.gillettewy.gov/Departments/Development-Services | EnerGov Citizen Self Service for permit/plan searches. Strong citywide permit and development research. |
-| **Gillette — raw data** | https://services1.arcgis.com/t1pOARESVtLutuqb/arcgis/rest/services/Energov_Permit_Points/FeatureServer/0 | Public EnerGov-derived ArcGIS layer. Best current machine-readable Wyoming source found for automation. |
 | **Cheyenne** | https://www.cheyennecity.org/Your-Government/Departments/Compliance-Department/Building-Permitting-Licensing | City Building Safety page links to OpenGov. Public search can be used to research building permit records by address. |
 | **Cheyenne OpenGov** | https://cheyennewy.viewpointcloud.com/ | Public permit / planning portal. Useful for known-address or project research and early planning applications. |
-| **Laramie County** | https://co-laramie-wy.smartgovcommunity.com/Public/Home | SmartGov permit center. Permit reports and parcel research; county territory outside Cheyenne is especially useful. |
+| **Laramie County — monthly permit reports** | https://www.laramiecountywy.gov/County-Government/County-Departments/Planning-Development | **Primary automated source.** Official monthly Building Permits Issued with Valuations reports, organized by classification/purpose with permit number, site address, issue date and valuation. |
+| **Laramie County — SmartGov** | https://co-laramie-wy.smartgovcommunity.com/Public/Home | Permit center for permit printouts, status and parcel/project research; useful after a monthly report identifies a prospect. |
 | **City of Laramie** | https://www.cityoflaramie.org/211/Building-Department-Code-Administration | Building department links to Civic Access for permit searches. |
 | **City of Laramie — reports** | https://www.cityoflaramie.org/1161/Building-Department-Reports | Monthly building snapshots and annual permit reports. Good market pulse. |
 | **City of Laramie — planning** | https://cityoflaramie.org/223/Application-Information-Fees-Submittal-S | Current planning projects plus Civic Access. Use this before building permits to catch projects earlier. |

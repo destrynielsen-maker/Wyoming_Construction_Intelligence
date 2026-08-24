@@ -19,11 +19,11 @@ The project follows the same operating model as Utah, Idaho, and Colorado Constr
 
 ## Initial automated source
 
-**City of Gillette — EnerGov Permit Points (ArcGIS)**
+**Laramie County — monthly Building Permits Issued with Valuations reports**
 
-The City of Gillette exposes a public ArcGIS feature layer synchronized from EnerGov with permit number, type, status, address, valuation, square footage, description, applied date, issue date, owner, and a direct Citizen Self Service link.
+Laramie County Planning & Development publishes official monthly permit reports organized by classification and purpose. The reports provide permit number, site address, date issued, and valuation, including explicit categories such as `COMMERCIAL NEW CONSTRUCTION` and `RESIDENTIAL NEW SINGLE FAMILY`.
 
-The collector retains a rolling ~18 months of issued permits to keep the working dataset prospecting-focused while persistent history can grow over time.
+The collector discovers current-year monthly reports from the official county page, uses verified direct report URLs as fallback, and validates each PDF contains the expected Laramie County identity before accepting any records.
 
 ## Run locally
 
