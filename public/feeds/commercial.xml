@@ -50,21 +50,6 @@ Units: </description>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00106</guid>
-      <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/feb-2026-building-permits-with-valuation-by-month.pdf</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: BP-26-00106
-Issued: 2026-02-06
-Address: 120 US 85
-Owner: 
-Contractor: 
-Valuation: 85000.0
-Units: </description>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00117</guid>
       <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/feb-2026-building-permits-with-valuation-by-month.pdf</link>
@@ -76,6 +61,21 @@ Address: 4951 I-80 SERVICE RD
 Owner: 
 Contractor: 
 Valuation: 2000.0
+Units: </description>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00106</guid>
+      <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/feb-2026-building-permits-with-valuation-by-month.pdf</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: BP-26-00106
+Issued: 2026-02-06
+Address: 120 US 85
+Owner: 
+Contractor: 
+Valuation: 85000.0
 Units: </description>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
     </item>
@@ -170,21 +170,6 @@ Units: </description>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00009</guid>
-      <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
-      <link>https://www.laramiecountywy.gov/files/assets/public/v/1/january-2026-building-permits-with-valuations.pdf</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: BP-26-00009
-Issued: 2026-01-13
-Address: 120 US 85
-Owner: 
-Contractor: 
-Valuation: 4000.0
-Units: </description>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00018</guid>
       <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
       <link>https://www.laramiecountywy.gov/files/assets/public/v/1/january-2026-building-permits-with-valuations.pdf</link>
@@ -196,6 +181,21 @@ Address: 90 ROAD 161
 Owner: 
 Contractor: 
 Valuation: 375000.0
+Units: </description>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00009</guid>
+      <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
+      <link>https://www.laramiecountywy.gov/files/assets/public/v/1/january-2026-building-permits-with-valuations.pdf</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: BP-26-00009
+Issued: 2026-01-13
+Address: 120 US 85
+Owner: 
+Contractor: 
+Valuation: 4000.0
 Units: </description>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
     </item>
