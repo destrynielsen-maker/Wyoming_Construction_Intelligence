@@ -5,17 +5,17 @@
     <link>https://destrynielsen-maker.github.io/Wyoming_Construction_Intelligence/</link>
     <description>Wyoming new-construction permit intelligence</description>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00637</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00720</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00637
+Permit: BP-26-00720
 Issued: 2026-07-29
-Address: 4513 ROAD 227
+Address: 2405 THREE DOTS TRL
 Owner: 
 Contractor: 
-Valuation: 60432.0
+Valuation: 251871.0
 Units: </description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -35,34 +35,19 @@ Units: </description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00720</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00637</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00720
+Permit: BP-26-00637
 Issued: 2026-07-29
-Address: 2405 THREE DOTS TRL
+Address: 4513 ROAD 227
 Owner: 
 Contractor: 
-Valuation: 251871.0
+Valuation: 60432.0
 Units: </description>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00685</guid>
-      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: BP-26-00685
-Issued: 2026-07-24
-Address: 3794 BATTLECREEK BLVD
-Owner: 
-Contractor: 
-Valuation: 362000.0
-Units: </description>
-      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00709</guid>
@@ -80,19 +65,19 @@ Units: </description>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00435</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00685</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00435
-Issued: 2026-07-13
-Address: 1049 Range Line Rd
+Permit: BP-26-00685
+Issued: 2026-07-24
+Address: 3794 BATTLECREEK BLVD
 Owner: 
 Contractor: 
-Valuation: 288900.0
+Valuation: 362000.0
 Units: </description>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00622</guid>
@@ -106,6 +91,21 @@ Address: 2920 BROOKS BLVD
 Owner: 
 Contractor: 
 Valuation: 284960.0
+Units: </description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00435</guid>
+      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: BP-26-00435
+Issued: 2026-07-13
+Address: 1049 Range Line Rd
+Owner: 
+Contractor: 
+Valuation: 288900.0
 Units: </description>
       <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
     </item>
@@ -170,21 +170,6 @@ Units: </description>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00596</guid>
-      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: BP-26-00596
-Issued: 2026-06-24
-Address: 1820 ROAD 110
-Owner: 
-Contractor: 
-Valuation: 186000.0
-Units: </description>
-      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00604</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
@@ -196,6 +181,21 @@ Address: 2810 T LAZY T CT
 Owner: 
 Contractor: 
 Valuation: 244320.0
+Units: </description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00596</guid>
+      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: BP-26-00596
+Issued: 2026-06-24
+Address: 1820 ROAD 110
+Owner: 
+Contractor: 
+Valuation: 186000.0
 Units: </description>
       <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
     </item>
@@ -215,21 +215,6 @@ Units: </description>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00517</guid>
-      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: BP-26-00517
-Issued: 2026-06-17
-Address: 1791 SUSIE CT
-Owner: 
-Contractor: 
-Valuation: 356900.0
-Units: </description>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00567</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
@@ -245,19 +230,19 @@ Units: </description>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00541</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00517</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00541
-Issued: 2026-06-16
-Address: 7606 RICH STRIKE CT
+Permit: BP-26-00517
+Issued: 2026-06-17
+Address: 1791 SUSIE CT
 Owner: 
 Contractor: 
-Valuation: 221200.0
+Valuation: 356900.0
 Units: </description>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00542</guid>
@@ -275,19 +260,19 @@ Units: </description>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00478</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00541</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00478
-Issued: 2026-06-15
-Address: 279 ROAD 102
+Permit: BP-26-00541
+Issued: 2026-06-16
+Address: 7606 RICH STRIKE CT
 Owner: 
 Contractor: 
-Valuation: 309173.0
+Valuation: 221200.0
 Units: </description>
-      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00487</guid>
@@ -301,6 +286,21 @@ Address: 856 BEAUFORT RD
 Owner: 
 Contractor: 
 Valuation: 249048.0
+Units: </description>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00478</guid>
+      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: BP-26-00478
+Issued: 2026-06-15
+Address: 279 ROAD 102
+Owner: 
+Contractor: 
+Valuation: 309173.0
 Units: </description>
       <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
     </item>
@@ -350,21 +350,6 @@ Units: </description>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00506</guid>
-      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: BP-26-00506
-Issued: 2026-06-09
-Address: 270 H Bar E Dr
-Owner: 
-Contractor: 
-Valuation: 227220.0
-Units: </description>
-      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00510</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
@@ -380,17 +365,32 @@ Units: </description>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00441</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00506</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00441
-Issued: 2026-06-02
-Address: 195 ROAD 143
+Permit: BP-26-00506
+Issued: 2026-06-09
+Address: 270 H Bar E Dr
 Owner: 
 Contractor: 
-Valuation: 473666.0
+Valuation: 227220.0
+Units: </description>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00488</guid>
+      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: BP-26-00488
+Issued: 2026-06-02
+Address: 2396 SHIRE LN
+Owner: 
+Contractor: 
+Valuation: 359321.0
 Units: </description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
@@ -410,17 +410,17 @@ Units: </description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00488</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00441</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00488
+Permit: BP-26-00441
 Issued: 2026-06-02
-Address: 2396 SHIRE LN
+Address: 195 ROAD 143
 Owner: 
 Contractor: 
-Valuation: 359321.0
+Valuation: 473666.0
 Units: </description>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
     </item>
@@ -455,17 +455,17 @@ Units: </description>
       <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00382</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00465</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00382
+Permit: BP-26-00465
 Issued: 2026-05-20
-Address: 1748 Road 136
+Address: 2511 THREE DOTS TRL
 Owner: 
 Contractor: 
-Valuation: 329600.0
+Valuation: 207289.0
 Units: </description>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -485,34 +485,19 @@ Units: </description>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00465</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00382</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00465
+Permit: BP-26-00382
 Issued: 2026-05-20
-Address: 2511 THREE DOTS TRL
+Address: 1748 Road 136
 Owner: 
 Contractor: 
-Valuation: 207289.0
+Valuation: 329600.0
 Units: </description>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00447</guid>
-      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: BP-26-00447
-Issued: 2026-05-19
-Address: 2705 T LAZY T CT
-Owner: 
-Contractor: 
-Valuation: 218292.0
-Units: </description>
-      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00454</guid>
@@ -530,19 +515,19 @@ Units: </description>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00425</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00447</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00425
-Issued: 2026-05-14
-Address: 4291 LONESOME DOVE TRL
+Permit: BP-26-00447
+Issued: 2026-05-19
+Address: 2705 T LAZY T CT
 Owner: 
 Contractor: 
-Valuation: 159996.0
+Valuation: 218292.0
 Units: </description>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00444</guid>
@@ -556,6 +541,21 @@ Address: 2517 ROAD 218
 Owner: 
 Contractor: 
 Valuation: 254632.0
+Units: </description>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00425</guid>
+      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: BP-26-00425
+Issued: 2026-05-14
+Address: 4291 LONESOME DOVE TRL
+Owner: 
+Contractor: 
+Valuation: 159996.0
 Units: </description>
       <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -620,21 +620,6 @@ Units: </description>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00384</guid>
-      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: BP-26-00384
-Issued: 2026-05-05
-Address: 1186 CARRIBEAN RD
-Owner: 
-Contractor: 
-Valuation: 168080.0
-Units: </description>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00398</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf</link>
@@ -646,6 +631,21 @@ Address: 3644 SKY RIDGE RD
 Owner: 
 Contractor: 
 Valuation: 110552.0
+Units: </description>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00384</guid>
+      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: BP-26-00384
+Issued: 2026-05-05
+Address: 1186 CARRIBEAN RD
+Owner: 
+Contractor: 
+Valuation: 168080.0
 Units: </description>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
     </item>
@@ -950,17 +950,17 @@ Units: </description>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00245</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00254</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/assets/public/v/1/march-building-permits-with-valuation-by-month-publication.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00245
+Permit: BP-26-00254
 Issued: 2026-03-19
-Address: 7205 Amberjack Dr
+Address: 674 Jenny Lynn Rd
 Owner: 
 Contractor: 
-Valuation: 251417.0
+Valuation: 119308.0
 Units: </description>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
@@ -980,32 +980,32 @@ Units: </description>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00254</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00245</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/assets/public/v/1/march-building-permits-with-valuation-by-month-publication.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00254
+Permit: BP-26-00245
 Issued: 2026-03-19
-Address: 674 Jenny Lynn Rd
+Address: 7205 Amberjack Dr
 Owner: 
 Contractor: 
-Valuation: 119308.0
+Valuation: 251417.0
 Units: </description>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00194</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00201</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/assets/public/v/1/march-building-permits-with-valuation-by-month-publication.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00194
+Permit: BP-26-00201
 Issued: 2026-03-09
-Address: 3890 BANDEMER BLVD
+Address: 1523 FIRE ROCK DR
 Owner: 
 Contractor: 
-Valuation: 256402.0
+Valuation: 288208.0
 Units: </description>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
@@ -1025,17 +1025,17 @@ Units: </description>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00201</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00194</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/assets/public/v/1/march-building-permits-with-valuation-by-month-publication.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00201
+Permit: BP-26-00194
 Issued: 2026-03-09
-Address: 1523 FIRE ROCK DR
+Address: 3890 BANDEMER BLVD
 Owner: 
 Contractor: 
-Valuation: 288208.0
+Valuation: 256402.0
 Units: </description>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
