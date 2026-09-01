@@ -215,21 +215,6 @@ Units: </description>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00798</guid>
-      <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: BP-26-00798
-Issued: 2026-08-11
-Address: UNKNOWN
-Owner: 
-Contractor: 
-Valuation: 44062.0
-Units: </description>
-      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00799</guid>
       <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
@@ -241,6 +226,21 @@ Address: UNKNOWN
 Owner: 
 Contractor: 
 Valuation: 88124.0
+Units: </description>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00798</guid>
+      <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: BP-26-00798
+Issued: 2026-08-11
+Address: UNKNOWN
+Owner: 
+Contractor: 
+Valuation: 44062.0
 Units: </description>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -290,47 +290,17 @@ Units: </description>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00747</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00784</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00747
+Permit: BP-26-00784
 Issued: 2026-08-03
-Address: 2115 DRAPER RD
+Address: 7314 JULIA RD
 Owner: 
 Contractor: 
-Valuation: 132269.0
-Units: </description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00750</guid>
-      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: BP-26-00750
-Issued: 2026-08-03
-Address: 1863 CHILKOOT PASS
-Owner: 
-Contractor: 
-Valuation: 202420.0
-Units: </description>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00771</guid>
-      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
-      <description>Category: SINGLE_FAMILY
-Score: 15
-Permit: BP-26-00771
-Issued: 2026-08-03
-Address: 4199 ROAD 229
-Owner: 
-Contractor: 
-Valuation: 461137.0
+Valuation: 335125.0
 Units: </description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
@@ -350,17 +320,47 @@ Units: </description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00784</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00771</guid>
       <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
       <description>Category: SINGLE_FAMILY
 Score: 15
-Permit: BP-26-00784
+Permit: BP-26-00771
 Issued: 2026-08-03
-Address: 7314 JULIA RD
+Address: 4199 ROAD 229
 Owner: 
 Contractor: 
-Valuation: 335125.0
+Valuation: 461137.0
+Units: </description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00750</guid>
+      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: BP-26-00750
+Issued: 2026-08-03
+Address: 1863 CHILKOOT PASS
+Owner: 
+Contractor: 
+Valuation: 202420.0
+Units: </description>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00747</guid>
+      <title>[Laramie County] RESIDENTIAL NEW SINGLE FAMILY</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf</link>
+      <description>Category: SINGLE_FAMILY
+Score: 15
+Permit: BP-26-00747
+Issued: 2026-08-03
+Address: 2115 DRAPER RD
+Owner: 
+Contractor: 
+Valuation: 132269.0
 Units: </description>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
     </item>
