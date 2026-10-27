@@ -50,21 +50,6 @@ Units: </description>
       <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00880</guid>
-      <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
-      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf</link>
-      <description>Category: COMMERCIAL
-Score: 30
-Permit: BP-26-00880
-Issued: 2026-09-10
-Address: UNKNOWN
-Owner: 
-Contractor: 
-Valuation: 323000.0
-Units: </description>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00906</guid>
       <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf</link>
@@ -80,19 +65,19 @@ Units: </description>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <guid isPermaLink="false">WY|laramie county|bp-26-00800</guid>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00880</guid>
       <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
       <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf</link>
       <description>Category: COMMERCIAL
 Score: 30
-Permit: BP-26-00800
-Issued: 2026-09-09
-Address: 198 US 85
+Permit: BP-26-00880
+Issued: 2026-09-10
+Address: UNKNOWN
 Owner: 
 Contractor: 
-Valuation: 204900.0
+Valuation: 323000.0
 Units: </description>
-      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
       <guid isPermaLink="false">WY|laramie county|bp-26-00907</guid>
@@ -106,6 +91,21 @@ Address: 4010 S Greeley Hwy
 Owner: 
 Contractor: 
 Valuation: 60000.0
+Units: </description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <guid isPermaLink="false">WY|laramie county|bp-26-00800</guid>
+      <title>[Laramie County] COMMERCIAL NEW CONSTRUCTION</title>
+      <link>https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf</link>
+      <description>Category: COMMERCIAL
+Score: 30
+Permit: BP-26-00800
+Issued: 2026-09-09
+Address: 198 US 85
+Owner: 
+Contractor: 
+Valuation: 204900.0
 Units: </description>
       <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
     </item>
