@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T13:45:39+00:00",
+  "generated_at": "2026-10-29T22:59:43+00:00",
   "permits": [
     {
       "state": "WY",
@@ -16,17 +16,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -43,17 +43,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -70,17 +70,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -97,17 +97,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -124,17 +124,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -151,17 +151,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -178,17 +178,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -205,17 +205,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -232,17 +232,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -259,17 +259,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -286,17 +286,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -313,17 +313,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -340,17 +340,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -367,17 +367,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -394,17 +394,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -421,17 +421,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -448,17 +448,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -475,17 +475,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -502,17 +502,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -529,17 +529,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -556,17 +556,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/2026-september-building-permits-with-valuation.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-10-26T22:53:32+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -583,17 +583,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 40,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -610,17 +610,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 50,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -637,17 +637,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -664,17 +664,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -691,17 +691,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -718,17 +718,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -745,17 +745,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -772,17 +772,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -799,17 +799,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -826,17 +826,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -853,17 +853,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -880,17 +880,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -907,17 +907,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -934,17 +934,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -961,17 +961,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -988,17 +988,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1015,17 +1015,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1042,17 +1042,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1069,17 +1069,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 50,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1096,17 +1096,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1123,17 +1123,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1150,17 +1150,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1177,17 +1177,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1204,17 +1204,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/building/august-building-permits-with-valuation-by-month-website.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-09-01T16:57:50+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1231,17 +1231,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1258,17 +1258,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1285,17 +1285,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 40,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1312,17 +1312,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1339,17 +1339,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1366,17 +1366,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1393,17 +1393,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1420,17 +1420,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1447,17 +1447,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1474,17 +1474,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1501,17 +1501,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1528,17 +1528,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1555,17 +1555,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1582,17 +1582,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1609,17 +1609,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1636,17 +1636,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1663,17 +1663,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1690,17 +1690,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1717,17 +1717,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 50,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1744,17 +1744,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1771,17 +1771,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1798,17 +1798,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1825,17 +1825,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1852,17 +1852,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1879,17 +1879,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1906,17 +1906,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/building-permits-with-valuation-by-month-july.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1933,17 +1933,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1960,17 +1960,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -1987,17 +1987,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2014,17 +2014,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2041,17 +2041,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2068,17 +2068,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2095,17 +2095,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2122,17 +2122,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2149,17 +2149,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2176,17 +2176,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2203,17 +2203,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2230,17 +2230,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2257,17 +2257,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2284,17 +2284,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2311,17 +2311,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 50,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2338,17 +2338,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2365,17 +2365,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2392,17 +2392,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 50,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2419,17 +2419,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2446,17 +2446,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2473,17 +2473,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2500,17 +2500,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2527,17 +2527,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2554,17 +2554,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2581,17 +2581,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2608,17 +2608,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2635,17 +2635,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2662,17 +2662,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2689,17 +2689,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2716,17 +2716,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2743,17 +2743,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2770,17 +2770,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2797,17 +2797,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2824,17 +2824,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2851,17 +2851,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2878,17 +2878,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2905,17 +2905,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2932,17 +2932,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2959,17 +2959,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/june-2026.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/june-2026.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -2986,17 +2986,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3013,17 +3013,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3040,17 +3040,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3067,17 +3067,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3094,17 +3094,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3121,17 +3121,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3148,17 +3148,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3175,17 +3175,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3202,17 +3202,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3229,17 +3229,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3256,17 +3256,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3283,17 +3283,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3310,17 +3310,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3337,17 +3337,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3364,17 +3364,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3391,17 +3391,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3418,17 +3418,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3445,17 +3445,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3472,17 +3472,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3499,17 +3499,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3526,17 +3526,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3553,17 +3553,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3580,17 +3580,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3607,17 +3607,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3634,17 +3634,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "COMMERCIAL NEW CONSTRUCTION",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "COMMERCIAL",
       "qualifies": true,
       "score": 40,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3661,17 +3661,17 @@
       "owner": null,
       "status": null,
       "source_name": "Laramie County Building Permits Issued with Valuations",
-      "source_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf",
+      "source_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf",
       "raw": {
         "classification_and_purpose": "RESIDENTIAL NEW SINGLE FAMILY",
-        "report_url": "https://www.laramiecountywy.gov/files/sharedassets/public/v/1/planning/documents/may-2026-building-permit.pdf"
+        "report_url": "https://www.laramiecountywy.gov/files/assets/public/v/1/planning/documents/may-2026-building-permit.pdf"
       },
       "classification": "SINGLE_FAMILY",
       "qualifies": true,
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3698,7 +3698,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3725,7 +3725,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3752,7 +3752,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3779,7 +3779,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3806,7 +3806,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3833,7 +3833,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3860,7 +3860,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3887,7 +3887,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3914,7 +3914,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3941,7 +3941,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3968,7 +3968,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -3995,7 +3995,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4022,7 +4022,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4049,7 +4049,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4076,7 +4076,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4103,7 +4103,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4130,7 +4130,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4157,7 +4157,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4184,7 +4184,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4211,7 +4211,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4238,7 +4238,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4265,7 +4265,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4292,7 +4292,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4319,7 +4319,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4346,7 +4346,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4373,7 +4373,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4400,7 +4400,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4427,7 +4427,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4454,7 +4454,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4481,7 +4481,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4508,7 +4508,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4535,7 +4535,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4562,7 +4562,7 @@
       "score": 40,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:14:57+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4589,7 +4589,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4616,7 +4616,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4643,7 +4643,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4670,7 +4670,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4697,7 +4697,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4724,7 +4724,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4751,7 +4751,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4778,7 +4778,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4805,7 +4805,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4832,7 +4832,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4859,7 +4859,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4886,7 +4886,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4913,7 +4913,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4940,7 +4940,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4967,7 +4967,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -4994,7 +4994,7 @@
       "score": 40,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5021,7 +5021,7 @@
       "score": 35,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5048,7 +5048,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5075,7 +5075,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5102,7 +5102,7 @@
       "score": 40,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5129,7 +5129,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5156,7 +5156,7 @@
       "score": 35,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5183,7 +5183,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5210,7 +5210,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5237,7 +5237,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5264,7 +5264,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5291,7 +5291,7 @@
       "score": 30,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5318,7 +5318,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5345,7 +5345,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     },
     {
       "state": "WY",
@@ -5372,7 +5372,7 @@
       "score": 15,
       "new_construction_confidence": "HIGH",
       "first_seen_at": "2026-08-24T20:07:16+00:00",
-      "last_seen_at": "2026-10-29T13:45:39+00:00"
+      "last_seen_at": "2026-10-29T22:59:43+00:00"
     }
   ]
 }
