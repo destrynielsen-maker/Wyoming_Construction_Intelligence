@@ -1,25 +1,27 @@
 {
-  "generated_at": "2026-11-06T19:43:13+00:00",
+  "generated_at": "2026-11-07T06:38:45+00:00",
   "sources": [
     {
       "source": "Laramie County",
-      "status": "healthy",
-      "technical_status": "ok",
+      "status": "degraded",
+      "technical_status": "error",
       "freshness_status": "fresh",
-      "volume_status": "normal",
-      "records_seen": 1088,
-      "qualifying_records": 219,
+      "volume_status": "unknown",
+      "records_seen": 0,
+      "qualifying_records": 0,
+      "cached_records": 1088,
+      "cached_qualifying_records": 219,
       "newest_permit_date": "2026-10-30",
       "oldest_permit_date": "2026-01-05",
-      "days_since_newest_permit": 7,
+      "days_since_newest_permit": 8,
       "freshness_threshold_days": 45,
       "previous_records_seen": 1088,
-      "record_count_change_pct": 0.0,
-      "last_attempt_at": "2026-11-06T19:43:13+00:00",
+      "record_count_change_pct": null,
+      "last_attempt_at": "2026-11-07T06:38:45+00:00",
       "last_success_at": "2026-11-06T19:43:13+00:00",
       "cached_data_available": true,
       "source_url": "https://www.laramiecountywy.gov/County-Government/County-Departments/Planning-Development",
-      "note": "Official Laramie County monthly Building Permits Issued with Valuations reports (11 reports parsed); 11 fetched through read-only text fallback after direct county download failed"
+      "note": "Live collection failed; cached permits retained. RuntimeError: Official Laramie County permit reports were found but none could be downloaded and parsed"
     }
   ]
 }
