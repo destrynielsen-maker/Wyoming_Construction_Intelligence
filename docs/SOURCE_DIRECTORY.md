@@ -71,3 +71,26 @@ CLI in explicit offline mode parsed 11 unique August (ADID 782) and 36 unique
 July (ADID 781) applications: 47 unique IDs, newest submission August 31
 (87 days old; stale), no contractor column and no counts of issued permits.
 No raw source PDFs, private records, or generated output are committed.
+
+### Issued-source boundary (Town and County)
+
+- The [Town of Jackson Building Reports](https://www.jacksonwy.gov/195/Reports)
+  page lists official historical issued records for
+  [2023](https://www.jacksonwy.gov/DocumentCenter/View/7888) and
+  [2024](https://www.jacksonwy.gov/DocumentCenter/View/7969), with an explicit
+  Date Issued field. As checked November 26, 2026, it did not list a 2025 or
+  2026 report. An independent PDF text check found 357 and 111 distinct
+  building permit IDs respectively, latest December 29, 2023 and
+  December 26, 2024, with no contractor field. Appropriate for historical
+  reference only; not ingested by this preview or the issued feed.
+- [Teton County Planning & Building Records](https://www.tetoncountywy.gov/1199/Planning-Building-Records)
+  documents case-specific searches via its SmartGov and property GIS links,
+  and warns that online records may be incomplete. Use government-supplied
+  permit documentation with an explicit issued date/status for case
+  verification only; neither the property lookup nor the activity archive
+  is a verified public current issued feed. Never infer issuance from an
+  application, inspection or owner field.
+
+The exact-branch preview checks execute unit tests and the CLI help entrypoint
+only. They do not pull any permits, write artifacts, or deploy. The existing
+production workflow remains unchanged.
