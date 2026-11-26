@@ -7,6 +7,7 @@ from .collectors import COLLECTORS
 from .dashboard import write_public_data
 from .feeds import write_all_feeds
 from .models import Permit
+from .reporting import laramie_row, manifest
 from .storage import load_permits, save_permits
 
 def _site() -> str:
@@ -55,16 +56,25 @@ def _fail(collector, exc: Exception, prev: dict | None, existing: dict[str, Perm
     return {"source": collector.name, "status": "degraded" if cached or last else "error", "technical_status": "error", "freshness_status": freshness, "volume_status": "unknown", "records_seen": 0, "qualifying_records": 0, "cached_records": len(cached), "cached_qualifying_records": sum(int(p.qualifies) for p in cached), "newest_permit_date": newest, "oldest_permit_date": min(dates) if dates else None, "days_since_newest_permit": age, "freshness_threshold_days": threshold, "previous_records_seen": (prev or {}).get("records_seen"), "record_count_change_pct": None, "last_attempt_at": generated, "last_success_at": last, "cached_data_available": bool(cached or last), "source_url": getattr(collector, "source_url", getattr(collector, "layer_url", "")), "note": note}
 
 def run(root: Path) -> dict:
-    now = datetime.now(timezone.utc).replace(microsecond=0); generated = now.isoformat(); store = root / "data" / "permits.json"; public = root / "public"; existing = load_permits(store); previous = _previous(public / "data" / "sources.json"); statuses = []; total = 0
+    now = datetime.now(timezone.utc).replace(microsecond=0); generated = now.isoformat(); store = root / "data" / "permits.json"; public = root / "public"; existing = load_permits(store); previous = _previous(public / "data" / "sources.json"); statuses = []; total = 0; reporting = []
     for collector in COLLECTORS:
         prev = previous.get(collector.name)
+        before = {p.key for p in existing.values() if p.jurisdiction == collector.name}
+        # Empty or unreadable store is not a trustworthy identity baseline.
+        baseline = before if before else None
+        observed = None
         try:
             result = collector.collect(); total += len(result.permits); qualified = 0
             for p in result.permits:
                 classify_permit(p); qualified += int(p.qualifies); old = existing.get(p.key); p.first_seen_at = old.first_seen_at if old and old.first_seen_at else generated; p.last_seen_at = generated; existing[p.key] = p
             statuses.append(_success(result, qualified, prev, generated, now.date(), getattr(collector, "freshness_days", 30)))
+            observed = {p.key for p in result.permits if p.jurisdiction == collector.name}
         except Exception as exc: statuses.append(_fail(collector, exc, prev, existing, generated, now.date()))
+        if collector.name == "Laramie County":
+            kept = {p.key for p in existing.values() if p.jurisdiction == collector.name}
+            reporting.append(laramie_row(statuses[-1], baseline, kept if kept or observed is not None else None,
+                                         observed, (prev or {}).get("last_success_at")))
     permits = list(existing.values())
     for p in permits: classify_permit(p)
-    save_permits(store, permits, generated); write_public_data(public, permits, statuses, generated); write_all_feeds(public / "feeds", permits, _site())
+    save_permits(store, permits, generated); write_public_data(public, permits, statuses, generated, manifest(reporting, generated)); write_all_feeds(public / "feeds", permits, _site())
     return {"generated_at": generated, "total_collected_this_run": total, "total_stored": len(permits), "qualifying_stored": sum(int(p.qualifies) for p in permits), "sources": statuses}
