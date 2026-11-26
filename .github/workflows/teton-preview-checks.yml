@@ -1,0 +1,27 @@
+name: Teton preview checks (no publish)
+
+on:
+  push:
+    branches: [scout/teton-public-planning]
+
+permissions:
+  contents: read
+
+jobs:
+  preview-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - name: Offline unit tests and CLI entrypoint
+        env:
+          PYTHONPATH: src
+        run: |
+          python -m unittest discover -s tests -v
+          python -m wyoming_permits.teton_application_preview --help
