@@ -40,3 +40,29 @@ Capture:
 `project → permit → address → owner/developer → builder/GC → units → valuation → issue date → source link`
 
 Treat multiple permits by one builder in one development as one account opportunity, not unrelated leads.
+
+### Town of Jackson public report replay (disabled research only)
+
+The Town's [public report menu](https://twn-jackson-wy.smartgovcommunity.com/Public/ReportsView)
+offers **Issued Permits By Department**, with two dates and no login.
+The report includes records submitted **or** issued in the period, and repeat
+review cycles, not a complete count of new-building issuances by itself.
+It is a separate issuer from unincorporated Teton County.
+
+Supply an official PDF saved separately. Poppler `pdftotext` must be installed.
+The opt-in CLI does not fetch, store or publish permits and is not registered:
+
+```sh
+PYTHONPATH=src python -m wyoming_permits.jackson_town_issued_preview /path/to/report.pdf --start 2026-11-16 --end 2026-11-22
+```
+
+Two official PDFs were retrieved through the public report form URLs and
+replayed offline on Nov 26, 2026. Nov 9–15: 18 building detail rows / 16 IDs /
+5 distinct in-window issued IDs (three addenda, one plumbing, one mechanical);
+no new-building candidates. Nov 16–22: 21 rows / 17 IDs / 14 distinct in-window
+issued IDs through Nov 20. B26-0204 and B26-0205 each repeat three cycles and
+were each recorded once as manual-review-only new single-family candidates,
+issued Nov 17. No contractor column or inferred contractor; no sales leads
+automatically qualified. No raw source data is included in the repository.
+Both five/six-page PDFs were roughly 86 MB. This is not a validation of scheduled
+transport, longer windows, every report layout, or production coverage.

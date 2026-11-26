@@ -1,0 +1,29 @@
+name: Jackson town preview checks (no publish)
+
+on:
+  push:
+    branches: [scout/jackson-town-issued-preview]
+
+permissions:
+  contents: read
+
+jobs:
+  preview-tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - run: sudo apt-get update && sudo apt-get install --no-install-recommends -y poppler-utils
+      - name: Offline tests and CLI entrypoint
+        env:
+          PYTHONPATH: src
+        run: |
+          pdftotext -v
+          python -m unittest discover -s tests -v
+          python -m wyoming_permits.jackson_town_issued_preview --help
