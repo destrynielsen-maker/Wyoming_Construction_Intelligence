@@ -1,0 +1,25 @@
+name: Wyoming reporting checks (no publish)
+
+on:
+  push:
+    branches: [scout/wy-public-reporting]
+
+permissions:
+  contents: read
+
+jobs:
+  reporting-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Replay exact frozen Wyoming snapshot with shipped dashboard JavaScript
+        run: |
+          echo '408e81124670a065498468302170e19028d273bbef8a6818737ab37b724f1ea0  public/data/permits.json' | sha256sum -c -
+          echo '178c39c55f7271dbe245f4e510b6967f7a9e4684f9734b9cd8346148e875aecc  public/data/sources.json' | sha256sum -c -
+          node scripts/test-reporting.cjs
